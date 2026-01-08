@@ -13,7 +13,7 @@
 *What default values make sense for these attributes?* 
 
 
-## Tamagotchi Task 2: Add a Status Method
+## Task 2: Add a Status Method
 ### Display the Pet’s Status
 Write a status method to show:
 - hunger
@@ -28,7 +28,7 @@ Write a status method to show:
 - Use print statements to format the output nicely.
 - Make sure the method is called in the game loop.
 
-## Tamagotchi Task 3: Add Methods for Actions
+## Task 3: Add Methods for Actions
 ### Add Methods for Pet Actions
 
 ### Add methods to manage the pet’s needs:
@@ -46,7 +46,7 @@ Write a status method to show:
 *Think through the logic for each method, what will change?*
 
 
-## Tamagotchi Task 4: Handle Aging and Game Over
+## Task 4: Handle Aging and Game Over
 
 ### Add Aging and Winning/Losing Conditions
 
@@ -65,7 +65,7 @@ Write a status method to show:
 *How can you track the pet’s progress or failure?*
 
 
-## Tamagotchi Task 5: Interactive Menu and Game Loop
+## Task 5: Interactive Menu and Game Loop
 ### Build the Interactive Menu and Game Loop
 - The game loop will prompt the user for actions:
   - 1 for Feed.
@@ -83,7 +83,7 @@ Write a status method to show:
 *Test the menu with one action at a time (e.g., only "Feed" first).*
 *Gradually add more options and test win/lose conditions.*
 
-## Tamagotchi Task 6: Extend your Tamagotchi Game
+## Task 6: Extend your Tamagotchi Game
 
 ### Bonus Challenge: Add New Features to Your Game
 **Goal**: Enhance your Tamagotchi game with extra features to make it more interactive and fun!
@@ -98,11 +98,3 @@ Write a status method to show:
 **Custom Aging**: Change the growth rate or aging logic to reflect better care for the pet.
 
 *Choose and implement a bonus feature.*
-
-
-
-
-
-
-
-
