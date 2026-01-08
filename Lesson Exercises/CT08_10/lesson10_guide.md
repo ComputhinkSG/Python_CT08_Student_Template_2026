@@ -1,4 +1,4 @@
-<img width="2626" height="140" alt="image" src="https://github.com/user-attachments/assets/c9732004-4e12-41d9-ab5f-9f33e9bb682f" /># Lesson 10- User Management System
+# Lesson 10- User Management System
 
 ## Task 1: Generate a strong password
 
@@ -89,4 +89,5 @@ Allows an existing user to reset their password by verifying their current passw
 *The following menu options should be available to you.*
 
 *Your menu should validate the available options inputted by the user.*
+
 
