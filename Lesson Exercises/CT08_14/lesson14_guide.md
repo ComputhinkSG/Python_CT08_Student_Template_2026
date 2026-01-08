@@ -1,5 +1,23 @@
 # Lesson 14 - Car Showroom
 
+## Learning Exercise 1 - 4
+
+```python
+# Step 1: Define the ZooAnimal class
+
+        # Initialize the animal's name and species
+
+        # A method to make the animal "speak"
+        
+        # A method to describe the animal
+
+
+# Step 2: Create objects (instances) of ZooAnimal
+
+# Create a few zoo animals
+
+# Call methods on the objects
+```
 ## Car Showroom Task 1: Create Car Class
 
 Create 3 cars from this class
@@ -15,5 +33,6 @@ Create 3 cars from this class
 - Create a list called showroom.
 - Add car objects to the list using .append().
 - Use a for loop to go through the list and call show_details for each car.
+
 
 
