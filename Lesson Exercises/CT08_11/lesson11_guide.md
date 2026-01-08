@@ -1,6 +1,6 @@
 # Lesson 11 - Caesar Encryption
 
-## Caesar Encryption Task 1: Encrypt/ Decrypt a single character
+## Task 1: Encrypt/ Decrypt a single character
 
 ### Create a function to encrypt/ decrypt a single character
 `caesar_shift_character ()`
@@ -18,7 +18,7 @@
 
 *Ask your Code Mentor to explain to you!*
 
-## Caesar Encryption Task 2: Encrypt/ Decrypt a single sentence
+## Task 2: Encrypt/ Decrypt a single sentence
 
 ### Encrypts or decrypts a full sentence by shifting each character.
 
@@ -38,7 +38,7 @@
 
 *Further on, all these functions will go into a menu system*
 
-## Caesar Encryption Task 3: Encrypt/ Decrypt a list of sentences
+## Task 3: Encrypt/ Decrypt a list of sentences
 
 ### Encrypts or decrypts a list of sentences using the Caesar cipher.
 
@@ -58,7 +58,7 @@
 
 *Further on, all these functions will go into a menu system*
 
-## Caesar Encryption Task 4: Encrypt/ Decrypt a file
+## Task 4: Encrypt/ Decrypt a file
 ### Encrypts or decrypts the contents of a file line by line.
 
 `caesar_shift_file()`
@@ -77,7 +77,7 @@
 
 *Further on, all these functions will go into a menu system*
 
-## Caesar Encryption Task 5: Brute Force Hacking
+## Task 5: Brute Force Hacking
 ### Attempts to decrypt a file by testing all possible keys and printing the results for each key.
 
 `brute_force_decrypt()`
@@ -92,7 +92,7 @@
 
 *Solution: Loop through all possible permutations to find the key, then decrypt the file!*
 
-## Caesar Encryption Task 6: Interactive Menu System
+## Task 6: Interactive Menu System
 ### Provides a menu interface for users to interact with the Caesar cipher program.
 
 `menu_system()`
@@ -106,3 +106,4 @@
 *This task ties together all the previous functions into a friendly interface.*
 
 *Ensure that you validate the user inputs!*
+
