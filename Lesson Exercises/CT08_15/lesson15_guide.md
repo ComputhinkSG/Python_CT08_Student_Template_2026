@@ -74,9 +74,13 @@ Write a status method to show:
 
 ### Challenge Ideas:
 **New Attribute**: Add a health attribute to track your pet’s overall well-being.
+
 **New Action**: Create a train method to improve a new attribute, like intelligence or fitness.
+
 **Random Events**: Introduce random events (e.g., "Your pet found a snack!" or "Your pet feels tired").
+
 **Custom Aging**: Change the growth rate or aging logic to reflect better care for the pet.
+
 
 
 
