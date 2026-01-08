@@ -8,8 +8,9 @@
     - energy
     - happiness
     - age: Starts at 0.
-- *What should each pet have as (attributes)?*
-- *What default values make sense for these attributes?* 
+*What should each pet have as (attributes)?*
+
+*What default values make sense for these attributes?* 
 
 
 ## Tamagotchi Task 2: Add a Status Method
@@ -39,7 +40,9 @@ Write a status method to show:
     -Restores energy but increases hunger significantly.
 
 *What should each action do to the pet’s attributes?*
+
 *How will you prevent values from becoming unrealistic (e.g., hunger going below 0)?*
+
 *Think through the logic for each method, what will change?*
 
 
@@ -95,6 +98,7 @@ Write a status method to show:
 **Custom Aging**: Change the growth rate or aging logic to reflect better care for the pet.
 
 *Choose and implement a bonus feature.*
+
 
 
 
