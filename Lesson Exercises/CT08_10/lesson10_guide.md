@@ -89,4 +89,3 @@ Allows an existing user to reset their password by verifying their current passw
 *The following menu options should be available to you.*
 
 *Your menu should validate the available options inputted by the user.*
-
