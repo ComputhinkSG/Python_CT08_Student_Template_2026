@@ -1,13 +1,13 @@
 # Lesson 15 - Tamagotchi
 
 ## Task 1: Define the Tamatgochi Class
--Start by creating a class called Tamagotchi.
--Add a constructor (__init__) to initialize:
-	-name: The pet’s name.
-	-hunger
-	-energy
-	-happiness
-	-age: Starts at 0.
+- Start by creating a class called Tamagotchi.
+- Add a constructor (__init__) to initialize:
+    -name: The pet’s name.
+    -hunger
+    -energy
+    -happiness
+    -age: Starts at 0.
 
 ## Tamagotchi Task 2: Add a Status Method
 ### Display the Pet’s Status
@@ -77,6 +77,7 @@ Write a status method to show:
 **New Action**: Create a train method to improve a new attribute, like intelligence or fitness.
 **Random Events**: Introduce random events (e.g., "Your pet found a snack!" or "Your pet feels tired").
 **Custom Aging**: Change the growth rate or aging logic to reflect better care for the pet.
+
 
 
 
